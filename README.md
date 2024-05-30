@@ -13,4 +13,7 @@ Step 3)
 type 127.0.0.1:5000 in the url on your browser and hit enter.
 
 Step 4)
-Enjoy!
+Click on shuffle puzzle as many times as you want until you find a hard puzzle, then challenge the A* search to solve it!
+
+Step 5)
+Have fun!
